@@ -1,0 +1,2 @@
+serviceClass: com.EventCreation.client.GreetingService
+path: 101C70B6AFBA1A167014C74169A9AE9D.gwt.rpc

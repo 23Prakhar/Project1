@@ -1,0 +1,3 @@
+# Module eventcreation
+# RPC service class, partial path of RPC policy file
+com.EventCreation.client.GreetingService, 101C70B6AFBA1A167014C74169A9AE9D.gwt.rpc
